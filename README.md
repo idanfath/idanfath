@@ -1,19 +1,17 @@
-<div style="display: flex; align-items: center;">
-  <img src="https://github.com/idanfath.png" width="100" style="border-radius: 50%; margin-right: 20px;">
-  <div >
-    <code style="display: grid; padding: 0 1rem;">
-      <span>
-      > $ cat idanfath/README.md
-      </span>
-      <span>
-      > $ cat idanfath/README.md
-      </span>
-      <span>
-      > $ cat idanfath/README.md
-      </span>
-    </code>
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/idanfath.png" width="100" style="border-radius: 50%;">
+    </td>
+    <td>
+      <pre>
+        <code>
+          > $ cat idanfath/README.md
+        </code>
+      </pre>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">Hi, i'm
 <a href="https://github.com/idanfath" target="_blank">@idanfath</a>
