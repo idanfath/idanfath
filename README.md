@@ -26,8 +26,8 @@ stars   • {{ STARS }}
 
 <img align="left" src="https://github.com/idanfath.png" width="60">
 
-<code>
-I am a beginner Full Stack Developer 💻 from Indonesia. I have a huge passion for programming and I love to learn new things 🎓️
+<h3>🧑‍💻 About Me</h3>
+<code>I am a beginner Full Stack Developer 💻 from Indonesia. I have a huge passion for programming and I love to learn new things 🎓️
 </code>
 
 
