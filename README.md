@@ -14,7 +14,7 @@ term      • git bash, win term
 shell     • zsh 5.9
 
 pronouns  • he/him
-address   • west java, indonesia
+address   • sulawesi selatan, indonesia
 school    • smk telkom makassar
 
 skills    • laravel, typescript, tailwindcss,
