@@ -7,6 +7,11 @@
 
 <img align="left" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHc5M3RkdzVmOHR1MDJrY2w3c2E2MnJhNGl2dGdvMW03MTFvcjR4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.webp" height="340" width="300" style="object-fit: cover; "/>
 
+<!-- repos   • {{ REPOSITORIES }} ({{ REPOSITORIES_CONTRIBUTED_TO }} contributed)
+commits • {{ COMMITS }}
+issues  • {{ ISSUES }}
+stars   • {{ STARS }} -->
+
 ```haskell
 
 stats :: idanfath@github
@@ -15,10 +20,10 @@ os      • windows 11
 term    • win term
 shell   • zsh 5.9
 
-repos   • {{ REPOSITORIES }} ({{ REPOSITORIES_CONTRIBUTED_TO }} contributed)
-commits • {{ COMMITS }}
-issues  • {{ ISSUES }}
-stars   • {{ STARS }}
+
+
+
+
 
 
 ```
