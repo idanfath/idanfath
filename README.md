@@ -24,7 +24,8 @@ stars   • {{ STARS }}
 
 ```
 
-### 👩‍💻  About Me :
+<img align="left" src="https://github.com/idanfath.png" width="50">Bio
+<br>
 
 I am a Full Stack Developer 💻 from Indonesia.
 
