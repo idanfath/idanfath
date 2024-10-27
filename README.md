@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 </p>
 
-<img align="left" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHc5M3RkdzVmOHR1MDJrY2w3c2E2MnJhNGl2dGdvMW03MTFvcjR4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.webp" height="340" width="300" style="object-fit: cover; object-position: center; border-radius: 10px;"/>
+<img align="left" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHc5M3RkdzVmOHR1MDJrY2w3c2E2MnJhNGl2dGdvMW03MTFvcjR4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.webp" height="340" width="300" style="object-fit: cover; "/>
 
 ```haskell
 
@@ -23,7 +23,7 @@ stars   • {{ STARS }}
 
 ```
 
-<img align="left" src="https://github.com/idanfath.png" width="60">
+<img align="left" src="https://github.com/idanfath.png" height="100">
 
 ##### 🧑‍💻 About Me
 <code>I am a beginner Full Stack Developer 💻 from Indonesia. I have a huge passion for programming and I love to learn new things 🎓️
