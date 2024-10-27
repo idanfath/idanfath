@@ -26,9 +26,10 @@ stars   • {{ STARS }}
 
 <img align="left" src="https://github.com/idanfath.png" width="60">
 
-```markdown
+<code>
 I am a beginner Full Stack Developer 💻 from Indonesia. I have a huge passion for programming and I love to learn new things 🎓️
-```
+</code>
+
 
 ***
 
