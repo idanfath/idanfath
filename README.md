@@ -24,10 +24,8 @@ stars   • {{ STARS }}
 
 ```
 
-<img align="left" src="https://github.com/idanfath.png" width="60">Bio
-<br>
-
-I am a Full Stack Developer 💻 from Indonesia.
+<img align="left" src="https://github.com/idanfath.png" width="60">
+I am a beginner Full Stack Developer 💻 from Indonesia. I have a huge passion for programming and I love to learn new things 🎓️
 
 ***
 
