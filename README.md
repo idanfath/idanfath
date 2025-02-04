@@ -17,7 +17,7 @@ stars   • {{ STARS }} -->
 stats :: idanfath@github
 
 os      • windows 11
-term    • win term
+term    • wezterm
 shell   • zsh 5.9
 
 
