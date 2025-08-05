@@ -14,21 +14,9 @@ stars   • {{ STARS }} -->
 
 ```haskell
 
-stats :: idanfath@github
-
-os      • windows 11
-term    • wezterm
-shell   • zsh 5.9
-
-
-
-
+I am a beginner Full Stack Developer 💻 from Indonesia. I have a huge passion for programming and I love to learn new things 🎓️
 
 
 
 ```
 <img align="left" src="https://github.com/idanfath.png" height="100">
-
-##### 🧑‍💻 About Me
-<code>I am a beginner Full Stack Developer 💻 from Indonesia. I have a huge passion for programming and I love to learn new things 🎓️
-</code>
